@@ -70,4 +70,11 @@ Guess-my-Number/
 
 ---
 
+## 🌐 Live Demo
+
+[Play the Game on Netlify](guess-my-number-chiragproject.netlify.app)  
+<!-- Replace this link if your GitHub Pages repo is named differently -->
+
+---
+
 ### ❤️ Thank you for checking out this project!
