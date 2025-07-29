@@ -77,4 +77,10 @@ Guess-my-Number/
 
 ---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
 ### ❤️ Thank you for checking out this project!
